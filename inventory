@@ -1,1 +1,4 @@
-192.168.100.10
+192.168.100.10 apache_package=apache2 php_package=libapache2-mod-php
+
+# for CentOS for example:
+#192.168.100.20 apache_package=httpd php_package=php
